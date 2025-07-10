@@ -10,7 +10,7 @@ Passionate full-stack developer with 3+ years of expertise in Java Spring Boot e
 - 💬 Ask me about **Java Spring Boot**, **React**, **Database Design**, and **Cloud Deployment**
 - 📫 How to reach me: **azatvepakulyyev@gmail.com**
 - 🌐 Visit my blog: **[azatvepakulyyev.blog](https://www.azatvepakulyyev.blog)**
-- ⚡ Fun fact: I speak 4 languages and love mentoring fellow developers!
+- ⚡ Fun fact: I speak 4 languages !
 
 ## 📄 Resume
 
