@@ -8,6 +8,9 @@
   <a href="https://github.com/Arious18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="https://github.com/Arious18/Arious18/blob/main/Azat_Vepakulyyev_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-3498DB?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge"/>
+  </a>
   <a href="https://www.azatvepakulyyev.blog" target="_blank">
     <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
   </a>
@@ -43,6 +46,7 @@ My technical expertise includes, but is not limited to:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 <p align="left">
   <strong>Databases:</strong><br/>
@@ -74,10 +78,9 @@ My technical expertise includes, but is not limited to:
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arious18&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="Arious18 GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arious18&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="Arious18 GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arious18&theme=vision-friendly-dark" alt="Arious18 Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arious18&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Arious18 Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arious18&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Arious18 Top Languages" />
 </p>
-
-
