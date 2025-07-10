@@ -96,7 +96,6 @@ Passionate full-stack developer with 3+ years of expertise in Java Spring Boot e
 - 🌟 Exploring **AI integration** in web applications
 - 🚀 Mastering **cloud deployment** strategies
 - 📚 Contributing to **open source** projects
-- 🎓 Mentoring junior developers
 
 ## 🤝 Let's Connect
 
