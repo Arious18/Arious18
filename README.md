@@ -8,7 +8,7 @@
   <a href="https://github.com/Arious18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://github.com/Arious18/Arious18/blob/main/Azat_Vepakulyyev_Resume.pdf" target="_blank">
+  <a href="https://github.com/Arious18/Arious18/main/Azat_Vepakulyyev_Cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-3498DB?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge"/>
   </a>
   <a href="https://www.azatvepakulyyev.blog" target="_blank">
