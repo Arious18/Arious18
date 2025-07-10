@@ -79,6 +79,5 @@ My technical expertise includes, but is not limited to:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arious18&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Arious18 Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arious18&theme=vision-friendly-dark" alt="Arious18 Streak Stats" />
-</p>
+
+
