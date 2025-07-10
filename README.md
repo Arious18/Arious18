@@ -64,9 +64,7 @@ Passionate full-stack developer with 3+ years of expertise in Java Spring Boot e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arious18&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arious18&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 ## 🏆 Featured Projects
 
